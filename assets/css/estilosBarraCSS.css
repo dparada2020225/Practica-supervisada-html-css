@@ -7,7 +7,6 @@ body {
 
 .nav-bar{
     /* background: #e38646; */
-    background:#007CDD;
     background:#0E83DF; 
     padding: 20px;
     display: block;
@@ -16,16 +15,14 @@ body {
     font-size: 1.3em;
     width: 100%;
 }
- 
+    
 .menu, .submenu{
     list-style: none;
     padding: 0;
     margin: 0;
 }
 .menu{
-    /* background: #555; */
     background:#212639;
-    
     width: 100%;
     margin-left: -100%;
     transition: 0.5s;
@@ -38,13 +35,11 @@ body {
     font-size: 1em;
     text-decoration: none;
 }
+
 .menu__link:hover{
-    /* background:#444; */
     background:#51AC00;
 }
-.submenu .menu__link:hover{
-    background: #222 ;
-}
+
     
     
 .submenu{

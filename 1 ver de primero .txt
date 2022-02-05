@@ -3,3 +3,11 @@ https://dparada2020225.github.io/Practica_supervisada_html_css/
 
 link del repositorio
 https://github.com/dparada2020225/Practica_supervisada_html_css.git
+404  inicio
+contactos
+	-ver contactos
+	-agregar
+	-editar
+	-eliminar
+perfil
+	-editar perfil
